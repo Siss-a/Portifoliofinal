@@ -5,7 +5,7 @@ $textos = file(filename: "textos.txt");
 
 <head>
     <title>Portifolio - Larissa Otomo Klarosk</title>
-    <link rel="shortcut icon" href="img/estrela.png" type="image/x-icon">
+    <link rel="icon" href="img/estrela2.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/b62bd4ed58.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
